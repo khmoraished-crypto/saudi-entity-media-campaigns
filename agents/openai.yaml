@@ -1,0 +1,6 @@
+interface:
+  display_name: "الحملات الإعلامية للجهات السعودية"
+  short_description: "بناء حملات سعودية محلية ودولية متكاملة"
+  default_prompt: "استخدم $saudi-entity-media-campaigns لإعداد حملة إعلامية متكاملة لجهة سعودية."
+policy:
+  allow_implicit_invocation: true
